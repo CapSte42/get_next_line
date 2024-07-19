@@ -51,3 +51,8 @@ c
 #
 💬 **Ask Me About:**
 - Anything you need related to this project!
+
+#
+📫 **How to Reach Me:**
+- **42 Students:** Contact me on Slack (smontuor)
+- **Others:** Email me at smontuor@student.42firenze.it
